@@ -1,6 +1,6 @@
 ---
-title: "Hello Javascript"
-pubDate: "21-03-2024"
+title: "Hello World"
+pubDate: "2024-01-02"
 description: "Hello this is my first recommendation"
 image: 
 tags: ["Astro","Javascript"]
